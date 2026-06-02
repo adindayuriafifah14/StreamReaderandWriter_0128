@@ -1,0 +1,2 @@
+ "d:\Pemograman Dasar\Activity12\" ; if ($?) { g++ ExceptionStandart.cpp -o ExceptionStandart } ; if ($?) { .\ExceptionStandart }
+haloo dinda
